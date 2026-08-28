@@ -1,2 +1,3 @@
 # MyChip
-Random Verilog/Silicon stuff
+Todo:
+make tuff banner
