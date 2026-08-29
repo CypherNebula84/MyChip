@@ -1,4 +1,3 @@
-# MyChip
 <img align="left" src="logo/4.png" width="1023">
 
 
