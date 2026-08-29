@@ -1,5 +1,6 @@
 # MyChip
-<img align="left" src="[https://raw.githubusercontent.com/CypherNebula84/MyChip/refs/heads/main/logo/4.png]" alt="Description" width="200">
+<img align="left" src="logo/4.png" width="200">
+
 
 
 
