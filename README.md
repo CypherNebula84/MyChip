@@ -1,5 +1,5 @@
 # MyChip
-<img align="left" src="logo/4.png" width="1024">
+<img align="left" src="logo/4.png" width="512">
 
 
 
