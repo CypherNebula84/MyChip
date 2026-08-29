@@ -1,5 +1,5 @@
 # MyChip
-![stuff](images/4.png)
+![stuff](https://raw.githubusercontent.com/CypherNebula84/MyChip/refs/heads/main/logo/4.png)
 
 
 
